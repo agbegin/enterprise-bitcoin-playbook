@@ -1,5 +1,5 @@
 # Enterprise Bitcoin Playbook
-A collection of resources & ideas that answer the question "When, why and how will enterprises adopt Bitcoin?" 
+A collection of resources that answer the question "When, why and how will enterprises adopt Bitcoin?" 
 
 ## Overview
 Institutional adoption of Digital Assets is here. Executives and consultants are looking for ways to drive business value from the long list of crypto-related technology: cryptocurrencies, stablecoins, blockchain, web3, tokenization, and of course Bitcoin. 
