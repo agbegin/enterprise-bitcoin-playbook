@@ -23,4 +23,4 @@ Help enterprise leaders assess and adapt to the digital transformation of money 
 * [Directory](https://github.com/agbegin/enterprise-bitcoin-playbook/blob/main/directory.md) – List of people working on Enterprise Bitcoin Adoption, across Enterprises, Consultants, and Bitcoin Builders
 
 ## Get involved 
-This initiative is open for suggestions, contributions and feedback. DM me at [@agbegin](https://x.com/agbegin) on X or email andrew@galoy.io. 
+This initiative is open for suggestions, contributions and feedback. Reach out at [@agbegin](https://x.com/agbegin) or andrew@galoy.io
