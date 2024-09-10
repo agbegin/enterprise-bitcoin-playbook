@@ -5,3 +5,5 @@
 [Bitcoin Treasury Playbook – Acropolis](https://www.acropolistreasury.com/playbook)
 
 [Bitcoin's role in the ESG imperative – KPMG](https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2024/bitcoins-role-esg-imperative.pdf)
+
+[Bitcoin and the Future of Banking – Kerem Tuna Karakurum](https://www.linkedin.com/posts/keremtunakarakurum_bitcoin-and-the-future-of-banking-kerem-activity-7132581566647590913-hyj9/)
