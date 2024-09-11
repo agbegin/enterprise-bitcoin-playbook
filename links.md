@@ -7,3 +7,5 @@
 [Bitcoin's role in the ESG imperative – KPMG](https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2024/bitcoins-role-esg-imperative.pdf)
 
 [Bitcoin and the Future of Banking – Kerem Tuna Karakurum](https://www.linkedin.com/posts/keremtunakarakurum_bitcoin-and-the-future-of-banking-kerem-activity-7132581566647590913-hyj9/)
+
+[The Evolution of Bitcoin Custody – Onramp](https://onrampbitcoin.com/the-evolution-of-bitcoin-custody/) 
