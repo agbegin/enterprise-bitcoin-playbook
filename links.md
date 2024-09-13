@@ -1,5 +1,5 @@
 ### Intro to Bitcoin
-[Bitcoin and the Future of Banking – Kerem Tuna Karakurum](https://www.linkedin.com/posts/keremtunakarakurum_bitcoin-and-the-future-of-banking-kerem-activity-7132581566647590913-hyj9/)
+[Bitcoin and the Future of Banking](https://www.linkedin.com/posts/keremtunakarakurum_bitcoin-and-the-future-of-banking-kerem-activity-7132581566647590913-hyj9/) – Kerem Tuna Karakurum
 
 [Bitcoin First Revisited – Fidelity](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited)
 
