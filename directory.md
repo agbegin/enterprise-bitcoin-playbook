@@ -6,7 +6,7 @@
 - Nicolas Burtey | Galoy | @nicolasburtey
 - Rob Massey | Deloitte | LinkedIn
 - Brian Consolvo | KPMG | LinkedIn
-- Sagun Garg | Julius Baer
+- Sagun Garg | Julius Baer | @sagungarg
 
 (links to come)
 
