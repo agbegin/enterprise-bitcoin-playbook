@@ -5,6 +5,8 @@
 - Chris Kuiper | Fidelity Digital Assets | @chrisjkuiper
 - Nicolas Burtey | Galoy | @nicolasburtey
 - Rob Massey | Deloitte | LinkedIn
+- Brian Consolvo | KPMG | LinkedIn
+(links to come)
 
 ## Companies 
 
