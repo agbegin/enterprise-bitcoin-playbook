@@ -3,7 +3,7 @@
 
 [Bitcoin First Revisited](https://www.fidelitydigitalassets.com/research-and-insights/bitcoin-first-revisited) – Fidelity
 
-[Bitcoin: A Unique Diversifier](https://www.blackrock.com/us/financial-professionals/insights/bitcoin-unique-diversifier) – BliackRock
+[Bitcoin: A Unique Diversifier](https://www.blackrock.com/us/financial-professionals/insights/bitcoin-unique-diversifier) – BlackRock
 
 ### Bitcoin Treasury
 [Bitcoin Corporate Playbook– Microstrategy](https://www.microstrategy.com/bitcoin/documents/treasury-reserve-policy)
