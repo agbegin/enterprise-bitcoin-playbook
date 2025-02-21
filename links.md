@@ -40,3 +40,8 @@
 
 ### Government Adoption
 [Digital Gold | Evaluating a Strategic Bitcoin Reserve for the United States](https://cdn.prod.website-files.com/627aa615676bdd1d47ec97d4/6728de9bb63561ee70156bd5_BPI%20Policy%20Brief%20Digital%20Gold.pdf) – Bitcoin Policy Institute
+
+<br/>
+
+### Bitcoin Jobs
+[Bitcoin Job Market Report](https://drive.google.com/file/d/1ZFnYP949GzssQHA9wcjHTeW4cDiZIWvM/view) – Bitvocation
