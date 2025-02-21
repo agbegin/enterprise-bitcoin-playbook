@@ -10,6 +10,8 @@
 ### General
 [The Bitcoin Ecosystem](https://epochvc.io/pdf/Epoch-Bitcoin-Ecosystem-Report-2024.pdf) – Epoch
 
+[Why Business Bitcoin Adoption Grew by 30% in 1 Year](https://blog.river.com/business-bitcoin-adoption-2024/) – River
+
 <br/>
 
 ### Bitcoin Treasury
