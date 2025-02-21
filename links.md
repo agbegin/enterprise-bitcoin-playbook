@@ -28,6 +28,7 @@
 
 ### Lightning Network
 [The Lightning Network: Expanding Bitcoin's Use Cases](https://www.voltage.cloud/expanding-bitcoin-use-cases) – Fidelity / Voltage
+[Bitcoin Payments: From Digital Gold to Everyday Currency](https://breez.technology/report/) – Breez
 
 <br/>
 
