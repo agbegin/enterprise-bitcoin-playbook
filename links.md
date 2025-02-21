@@ -27,7 +27,7 @@
 <br/>
 
 ### Lightning Network
-[The Lightning Network: Exanding Bitcoin's Use Cases](https://www.voltage.cloud/expanding-bitcoin-use-cases) – Fidelity / Voltage
+[The Lightning Network: Expanding Bitcoin's Use Cases](https://www.voltage.cloud/expanding-bitcoin-use-cases) – Fidelity / Voltage
 
 <br/>
 
