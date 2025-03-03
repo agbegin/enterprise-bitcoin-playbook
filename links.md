@@ -26,6 +26,8 @@
 
 [The Evolution of Bitcoin Custody](https://onrampbitcoin.com/the-evolution-of-bitcoin-custody/) – Onramp
 
+[The state of crypto custody report](https://fortris.com/press/fortris-custody-survey-2025-en?tag=en) - Fortris
+
 <br/>
 
 ### Lightning Network
