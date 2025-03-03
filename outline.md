@@ -5,6 +5,7 @@
     * How is Bitcoin different?
 * Bitcoin use cases and adoption strategies
     * Store of value
+    * Bitcoin-backed lending
     * Payments
     * Energy optimization
     * Trapped cash
