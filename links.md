@@ -19,6 +19,8 @@
 
 [Bitcoin Treasury Playbook](https://www.acropolistreasury.com/playbook) – Acropolis
 
+[How to build a Bitcoin Treasury Company](https://www.linkedin.com/posts/aldonazukowskacarames_how-to-build-bitcoin-treasury-companymstr-activity-7261820709155311618-DQZT/) - Aldona Żukowska-Caramés
+
 <br/>
 
 ### Custody
