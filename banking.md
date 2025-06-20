@@ -10,6 +10,8 @@ Capgemini – [Intelligent Banks Do More With Less](https://www.capgemini.com/wp
 
 Deloitte – [Digital Transformation Hits Core Banking](https://www.deloitte.com/us/en/services/consulting/articles/core-banking-digital-transformation-strategy.html)
 
+Fintech In Depth / N26 – [Core Banking Systems Primer](https://medium.com/fintech-in-depth/core-banking-systems-primer-a2d26919f3eb)
+
 *Gartner – [Magic Quadrant for Retail Core Banking Systems, Europe](https://www.gartner.com/doc/reprints?__hstc=5939884.9daca9a92f4695dae67968343d531878.1731595773215.1738144737494.1738661087585.11&__hssc=5939884.2.1738661087585&__hsfp=554125298&id=1-2K4NXH7D&ct=250203&st=sb&submissionGuid=32caa85e-0bf8-49bd-9515-756cd0d177b6)
 
 IDC – [Unlocking Enterprise Intelligence in Banking Systems](https://drive.google.com/file/d/1d4mzffpqxo3Sh8PaGA4SWvDyAMHFZKjW/view?usp=sharing)
